@@ -81,6 +81,48 @@ Konfigurasi member port untuk VLAN
 
 
 
+Konfigurasi Port Trunk
+
+
+
+
+![image](https://github.com/MayangArinda17/MODUL-JARKOM/assets/150981696/37fe154c-a832-4644-894a-415381a23291)
+
+
+
+
+
+Menyimpan konfigurasi di NVRAM
+
+
+
+
+
+![image](https://github.com/MayangArinda17/MODUL-JARKOM/assets/150981696/132dab08-ff5d-4ddb-aa58-48f72a6db017)
+
+
+
+
+
+Melihat daftar VLAN
+
+
+
+
+
+![image](https://github.com/MayangArinda17/MODUL-JARKOM/assets/150981696/5ff4e620-ae4d-4adc-88d8-883d8b325dbd)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
